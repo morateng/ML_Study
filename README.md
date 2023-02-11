@@ -1,3 +1,3 @@
-# dataAnalysisStudy
+# Data Science Study
 ----
-데이터 스터디
+
