@@ -1,3 +1,3 @@
-# Data Science Study
+# ML Study
 
 
